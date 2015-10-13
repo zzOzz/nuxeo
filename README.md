@@ -5,4 +5,4 @@ git clone --recursive https://github.com/zzOzz/nuxeo.git
 ~~~
 
 
-[docs](../nuxeo-docker/)
+[docs](https://github.com/zzOzz/nuxeo-docker)
