@@ -1,7 +1,7 @@
 # installation
 
 ~~~
-git clone --recursive git@github.com:zzOzz/nuxeo.git
+git clone --recursive https://github.com/zzOzz/nuxeo.git
 ~~
 
 
