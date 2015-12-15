@@ -1,6 +1,6 @@
 [submodule "nuxeo-shibboleth-docker"]
 	path = nuxeo-shibboleth-docker
-	url = git@github.com:zzOzz/nuxeo-shibboleth-docker.git
+	url = https://github.com/zzOzz/nuxeo-shibboleth-docker.git
 [submodule "nuxeo-docker"]
 	path = nuxeo-docker
-	url = git@github.com:zzOzz/nuxeo-docker.git
+	url = https://github.com/zzOzz/nuxeo-docker.git
